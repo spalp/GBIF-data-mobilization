@@ -1,0 +1,115 @@
+OriginalName	scientificName	key	matchType	confidence	status	rank	kingdom	phylum	class	order	family	genus	species	canonicalName	authorship	usageKey	acceptedUsageKey
+Acrocephalus	Acrocephalus J.A.Naumann & J.F.Naumann, 1811	2493112	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Acrocephalidae	Acrocephalus		Acrocephalus	J.A.Naumann & J.F.Naumann, 1811	2493112	
+Aegolius funereus	Aegolius funereus (Linnaeus, 1758)	5739298	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Strigiformes	Strigidae	Aegolius	Aegolius funereus	Aegolius funereus	(Linnaeus, 1758) 	5739298	
+Alcedo athis	Alcedo atthis (Linnaeus, 1758)	2475532	FUZZY	98	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Coraciiformes	Alcedinidae	Alcedo	Alcedo atthis	Alcedo atthis	(Linnaeus, 1758) 	2475532	
+Alectoris greaca	Alectoris graeca (Meisner, 1804)	2474055	FUZZY	96	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Galliformes	Phasianidae	Alectoris	Alectoris graeca	Alectoris graeca	(Meisner, 1804) 	2474055	
+Anguis  fragilis	Anguis fragilis Linnaeus, 1758	2468095	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Anguidae	Anguis	Anguis fragilis	Anguis fragilis	Linnaeus, 1758	2468095	
+Anura	Anura	952	EXACT	95	ACCEPTED	ORDER	Animalia	Chordata	Amphibia	Anura				Anura		952	
+Apodemus	Apodemus Kaup, 1829	2437754	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Rodentia	Muridae	Apodemus		Apodemus	Kaup, 1829	2437754	
+Apodemus mystacinus	Apodemus mystacinus (Danford & Alston, 1877)	2437773	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Muridae	Apodemus	Apodemus mystacinus	Apodemus mystacinus	(Danford & Alston, 1877) 	2437773	
+Arvicola amphibius	Arvicola amphibius (Linnaeus, 1758)	4265185	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Cricetidae	Arvicola	Arvicola amphibius	Arvicola amphibius	(Linnaeus, 1758) 	4265185	
+Aves	Aves	212	EXACT	96	ACCEPTED	CLASS	Animalia	Chordata	Aves					Aves		212	
+Bombina variegata	Bombina variegata (Linnaeus, 1758)	2423435	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Bombinatoridae	Bombina	Bombina variegata	Bombina variegata	(Linnaeus, 1758) 	2423435	
+Bufo	Bufo Garsault, 1764	7580221	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo		Bufo	Garsault, 1764	7580221	
+Bufo bufo	Bufo bufo (Linnaeus, 1758)	5217160	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufo	Bufo bufo	Bufo bufo	(Linnaeus, 1758) 	5217160	
+Bufo viridis	Bufo viridis Laurenti, 1768	5216588	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Amphibia	Anura	Bufonidae	Bufotes	Bufotes viridis	Bufo viridis	Laurenti, 1768	5216588	9529916
+Canis domesticus	Canis familiarus subsp. domesticus Linnaeus, 1758	6164211	HIGHERRANK	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis familiaris	Canis familiarus subsp. domesticus	Linnaeus, 1758	6164211	
+Caprimulgus europaeus	Caprimulgus europaeus Linnaeus, 1758	8109681	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Caprimulgiformes	Caprimulgidae	Caprimulgus	Caprimulgus europaeus	Caprimulgus europaeus	Linnaeus, 1758	8109681	
+Carduelis carduelis	Carduelis carduelis (Linnaeus, 1758)	2494686	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Carduelis	Carduelis carduelis	Carduelis carduelis	(Linnaeus, 1758) 	2494686	
+Carduelis chloris	Carduelis chloris (Linnaeus, 1758)	2494642	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Chloris	Chloris chloris	Carduelis chloris	(Linnaeus, 1758) 	2494642	5845582
+Carnivora	Carnivora	732	EXACT	96	ACCEPTED	ORDER	Animalia	Chordata	Mammalia	Carnivora				Carnivora		732	
+Chiroptera	Chiroptera	734	EXACT	96	ACCEPTED	ORDER	Animalia	Chordata	Mammalia	Chiroptera				Chiroptera		734	
+Coccothraustes coccothraustes	Coccothraustes coccothraustes (Linnaeus, 1758)	2494329	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Coccothraustes	Coccothraustes coccothraustes	Coccothraustes coccothraustes	(Linnaeus, 1758) 	2494329	
+Coluber	Coluber Linnaeus, 1758	2458634	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Squamata		Colubridae	Coluber		Coluber	Linnaeus, 1758	2458634	
+Coluber jugularis	Coluber jugularis Linnaeus, 1758	2457235	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Squamata		Colubridae	Dolichophis	Dolichophis jugularis	Coluber jugularis	Linnaeus, 1758	2457235	2457232
+Coluber najadum	Coluber najadum (Eichwald, 1831)	2453320	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Squamata		Colubridae	Platyceps	Platyceps najadum	Coluber najadum	(Eichwald, 1831) 	2453320	5223135
+Colubridae	Colubridae	6172	EXACT	96	ACCEPTED	FAMILY	Animalia	Chordata	Squamata		Colubridae			Colubridae		6172	
+Crocidura	Crocidura Wagler, 1832	2435528	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	Crocidura		Crocidura	Wagler, 1832	2435528	
+Crocidura  leucodon	Crocidura leucodon (Hermann, 1780)	2435723	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	Crocidura	Crocidura leucodon	Crocidura leucodon	(Hermann, 1780) 	2435723	
+Crocidura suaveolens	Crocidura suaveolens (Pallas, 1811)	2435687	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Soricomorpha	Soricidae	Crocidura	Crocidura suaveolens	Crocidura suaveolens	(Pallas, 1811) 	2435687	
+Delichon  urbicum	Delichon urbicum (Linnaeus, 1758)	2489214	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Hirundinidae	Delichon	Delichon urbicum	Delichon urbicum	(Linnaeus, 1758) 	2489214	
+Dryomys  nitedula	Dryomys nitedula (Pallas, 1778)	2439688	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Gliridae	Dryomys	Dryomys nitedula	Dryomys nitedula	(Pallas, 1778) 	2439688	
+Elaphe longissima	Elaphe longissima (Laurenti, 1768)	4820076	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Squamata		Colubridae	Zamenis	Zamenis longissimus	Elaphe longissima	(Laurenti, 1768) 	4820076	2458538
+Elaphe quatuorlineata	Elaphe quatuorlineata Lacepede, 1789	9099408	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Colubridae	Elaphe	Elaphe quatuorlineata	Elaphe quatuorlineata	Lacepede, 1789	9099408	
+Elaphe situla	Elaphe situla (Linnaeus, 1758)	8035896	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Squamata		Colubridae	Zamenis	Zamenis situla	Elaphe situla	(Linnaeus, 1758) 	8035896	2458374
+Emberiza	Emberiza Linnaeus, 1758	2491468	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Emberizidae	Emberiza		Emberiza	Linnaeus, 1758	2491468	
+Emberiza cia	Emberiza cia Linnaeus, 1767	2491498	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Emberizidae	Emberiza	Emberiza cia	Emberiza cia	Linnaeus, 1767	2491498	
+Emys  orbicularis	Emys orbicularis (Linnaeus, 1758)	8909809	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Testudines		Emydidae	Emys	Emys orbicularis	Emys orbicularis	(Linnaeus, 1758) 	8909809	
+Erinaceus concolor	Erinaceus concolor Martin, 1838	5219624	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Erinaceomorpha	Erinaceidae	Erinaceus	Erinaceus concolor	Erinaceus concolor	Martin, 1838	5219624	
+Erithacus megarynchos	Erithacus megarhynchos (Brehm, 1831)	5219624	FUZZY		SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Luscinia	Luscinia megarhynchos	Erithacus megarhynchos	(Brehm, 1831) 	4845592	7660710
+Erithacus megarhynchos	Erithacus megarhynchos (Brehm, 1831)	4845592	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Luscinia	Luscinia megarhynchos	Erithacus megarhynchos	(Brehm, 1831) 	4845592	7660710
+Erithacus rubecula	Erithacus rubecula (Linnaeus, 1758)	2492462	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Erithacus	Erithacus rubecula	Erithacus rubecula	(Linnaeus, 1758) 	2492462	
+Falco cherrug	Falco cherrug J.E.Gray, 1834	2481034	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Falconiformes	Falconidae	Falco	Falco cherrug	Falco cherrug	J.E.Gray, 1834	2481034	
+Felis silvestris	Felis silvestris Schreber, 1777	7964291	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Carnivora	Felidae	Felis	Felis silvestris	Felis silvestris	Schreber, 1777	7964291	
+Fringilla	Fringilla Linnaeus, 1758	2494421	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Fringilla		Fringilla	Linnaeus, 1758	2494421	
+Fringilla coelebs	Fringilla coelebs Linnaeus, 1758	2494422	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Fringillidae	Fringilla	Fringilla coelebs	Fringilla coelebs	Linnaeus, 1758	2494422	
+Glis glis	Glis glis (Linnaeus, 1766)	5706486	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Gliridae	Glis	Glis glis	Glis glis	(Linnaeus, 1766) 	5706486	
+Hippolais  olivetorum	Hippolais olivetorum (Strickland, 1837)	2493219	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Acrocephalidae	Hippolais	Hippolais olivetorum	Hippolais olivetorum	(Strickland, 1837) 	2493219	
+Hirundo daurica	Hirundo daurica Linnaeus, 1771	5230782	EXACT	99	SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Hirundinidae	Cecropis	Cecropis daurica	Hirundo daurica	Linnaeus, 1771	5230782	9717283
+Hirundo rupestris	Hirundo rupestris Scopoli, 1769	5739335	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Hirundinidae	Ptyonoprogne	Ptyonoprogne rupestris	Hirundo rupestris	Scopoli, 1769	5739335	4408796
+Hirundo rustica	Hirundo rustica Linnaeus, 1758	9515886	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Hirundinidae	Hirundo	Hirundo rustica	Hirundo rustica	Linnaeus, 1758	9515886	
+Hyla  arborea	Hyla arborea (Linnaeus, 1758)	2427573	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Hylidae	Hyla	Hyla arborea	Hyla arborea	(Linnaeus, 1758) 	2427573	
+Insectivora	Insectivora	10986939	EXACT	94	SYNONYM	ORDER	Animalia	Chordata	Mammalia	Erinaceomorpha				Erinaceomorpha		829	
+Lacerta	Lacerta Linnaeus, 1758	2469780	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Squamata		Lacertidae	Lacerta		Lacerta	Linnaeus, 1758	2469780	
+Lacerta trilineata	Lacerta trilineata Bedriaga, 1886	6159197	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Lacertidae	Lacerta	Lacerta trilineata	Lacerta trilineata	Bedriaga, 1886	6159197	
+Lacerta viridis	Lacerta viridis (Laurenti, 1768)	6159273	EXACT	99	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Lacertidae	Lacerta	Lacerta viridis	Lacerta viridis	(Laurenti, 1768) 	6159273	
+Lanius	Lanius Linnaeus, 1758	2483315	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Laniidae	Lanius		Lanius	Linnaeus, 1758	2483315	
+Lanius colurio	Lanius collurio Linnaeus, 1758	7745240	FUZZY	98	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Laniidae	Lanius	Lanius collurio	Lanius collurio	Linnaeus, 1758	7745240	
+Malpolon  monspessulanus	Malpolon monspessulanus (Hermann, 1804)	8796529	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Psammophiidae	Malpolon	Malpolon monspessulanus	Malpolon monspessulanus	(Hermann, 1804) 	8796529	
+Malpolon insignitus	Malpolon insignitus (Geoffroy Saint-Hilaire, 1827)	5959662	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Psammophiidae	Malpolon	Malpolon insignitus	Malpolon insignitus	(Geoffroy Saint-Hilaire, 1827) 	5959662	
+Mammalia	Mammalia	359	EXACT	96	ACCEPTED	CLASS	Animalia	Chordata	Mammalia					Mammalia		359	
+Martes foina	Martes foina (Erxleben, 1777)	5218887	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Martes	Martes foina	Martes foina	(Erxleben, 1777) 	5218887	
+Motacilla alba	Motacilla alba Linnaeus, 1758	9687165	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Motacillidae	Motacilla	Motacilla alba	Motacilla alba	Linnaeus, 1758	9687165	
+Motacilla flava	Motacilla flava Linnaeus, 1758	9701857	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Motacillidae	Motacilla	Motacilla flava	Motacilla flava	Linnaeus, 1758	9701857	
+Muridae	Muridae	5510	EXACT	96	ACCEPTED	FAMILY	Animalia	Chordata	Mammalia	Rodentia	Muridae			Muridae		5510	
+Mus	Mus Linnaeus, 1758	9800657	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Rodentia	Muridae	Mus		Mus		9800657	
+Mus musculus	Mus musculus Linnaeus, 1758	7429082	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Muridae	Mus	Mus musculus	Mus musculus	Linnaeus, 1758	7429082	
+Mustela	Mustela Linnaeus, 1758	2433922	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela		Chordata		44	
+Mustela nivalis	Mustela nivalis Linnaeus, 1766	5218987	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	Mustela nivalis	Mustela nivalis	Linnaeus, 1766	5218987	
+Mustela putorius	Mustela putorius Linnaeus, 1758	5218911	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Carnivora	Mustelidae	Mustela	Mustela putorius	Mustela putorius	Linnaeus, 1758	5218911	
+Myotis	Myotis Kaup, 1829	2432384	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Chiroptera	Vespertilionidae	Myotis		Myotis	Kaup, 1829	2432384	
+Natrix  natrix	Natrix natrix (Linnaeus, 1758)	6161347	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Colubridae	Natrix	Natrix natrix	Natrix natrix	(Linnaeus, 1758) 	6161347	
+Natrix tesselata	Natrix tessellata (Laurenti, 1768)	6161327	FUZZY	98	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Colubridae	Natrix	Natrix tessellata	Natrix tessellata	(Laurenti, 1768) 	6161327	
+Oenanthe	Oenanthe Vieillot, 1816	2492483	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Oenanthe		Oenanthe	Vieillot, 1816	2492483	
+Parus	Parus Linnaeus, 1758	2487923	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus		Parus	Linnaeus, 1758	2487923	
+Parus major	Parus major Linnaeus, 1758	9705453	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus	Parus major	Parus major	Linnaeus, 1758	9705453	
+Parus montanus	Parus montanus Conrad von Baldenstein, 1827	4409010	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Paridae	Parus	Parus montanus	Parus montanus	Conrad von Baldenstein, 1827	4409010	
+Parus palustris	Parus palustris Linnaeus, 1758	8126684	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Aves	Passeriformes	Paridae	Poecile	Poecile palustris	Parus palustris	Linnaeus, 1758	8126684	2487843
+Passer	Passer Brisson, 1760	2492321	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer		Chordata		44	
+Passer domesticus	Passer domesticus (Linnaeus, 1758)	5231190	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	Passer domesticus	Passer domesticus	(Linnaeus, 1758) 	5231190	
+Passer montanus	Passer montanus (Linnaeus, 1758)	5231198	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Passeridae	Passer	Passer montanus	Passer montanus	(Linnaeus, 1758) 	5231198	
+Passeriformes	Passeriformes	729	EXACT	95	ACCEPTED	ORDER	Animalia	Chordata	Aves	Passeriformes				Passeriformes		729	
+Pelobates syriacus	Pelobates syriacus Boettger, 1889	2430566	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Pelobatidae	Pelobates	Pelobates syriacus	Pelobates syriacus	Boettger, 1889	2430566	
+Peloes syriacus	Pelobates syriacus Boettger, 1889	2430566	FUZZY		ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Pelobatidae	Pelobates	Pelobates syriacus	Pelobates syriacus	Boettger, 1889	2430566	
+Phoenicurus ochruros	Phoenicurus ochruros (S.G.Gmelin, 1774)	5739315	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Muscicapidae	Phoenicurus	Phoenicurus ochruros	Phoenicurus ochruros	(S.G.Gmelin, 1774) 	5739315	
+Phylloscopus	Phylloscopus F.Boie, 1826	2493047	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Phylloscopidae	Phylloscopus		Phylloscopus	F.Boie, 1826	2493047	
+Pipistrellus	Pipistrellus Kaup, 1829	2432218	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Chiroptera	Vespertilionidae	Pipistrellus		Pipistrellus		2432218	
+Podarcis	Podarcis Wagler, 1830	2468993	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Squamata		Lacertidae	Podarcis		Podarcis	Wagler, 1830	2468993	
+Podarcis  erhardii	Podarcis erhardii (Bedriaga, 1882)	2469075	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Lacertidae	Podarcis	Podarcis erhardii	Podarcis erhardii	(Bedriaga, 1882) 	2469075	
+Podarcis  taurica	Podarcis tauricus (Pallas, 1814)	2469065	FUZZY	98	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Lacertidae	Podarcis	Podarcis tauricus	Podarcis tauricus	(Pallas, 1814) 	2469065	
+Rana	Rana Linnaeus, 1758	2422253	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana		Rana	Linnaeus, 1758	2422253	
+Rana dalmatina	Rana dalmatina Fitzinger, 1838	2426760	EXACT	99	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	Rana dalmatina	Rana dalmatina	Fitzinger, 1838	2426760	
+Rana graeca	Rana graeca Boulenger, 1891	2426795	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Anura	Ranidae	Rana	Rana graeca	Rana graeca	Boulenger, 1891	2426795	
+Rana ridibunda	Rana ridibunda Pallas, 1771	2426662	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Amphibia	Anura	Ranidae	Pelophylax	Pelophylax ridibundus	Rana ridibunda	Pallas, 1771	2426662	2426661
+Rattus	Rattus Fischer, 1803	2439223	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Rodentia	Muridae	Rattus		Rattus	Fischer, 1803	2439223	
+Rattus  norvegicus	Rattus norvegicus (Berkenhout, 1769)	2439261	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Rodentia	Muridae	Rattus	Rattus norvegicus	Rattus norvegicus	(Berkenhout, 1769) 	2439261	
+Rhinolophus	Rhinolophus LacГ©pГЁde, 1799	2432611	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Mammalia	Chiroptera	Rhinolophidae	Rhinolophus		Rhinolophus	LacГ©pГЁde, 1799	2432611	
+Rhinolophus ferrumequinum	Rhinolophus ferrumequinum (Schreber, 1774)	2432655	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Chiroptera	Rhinolophidae	Rhinolophus	Rhinolophus ferrumequinum	Rhinolophus ferrumequinum	(Schreber, 1774) 	2432655	
+Rodentia	Rodentia	1459	EXACT	96	ACCEPTED	ORDER	Animalia	Chordata	Mammalia	Rodentia				Rodentia		1459	
+Salamandra salamandra	Salamandra salamandra (Linnaeus, 1758)	2431776	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Amphibia	Caudata	Salamandridae	Salamandra	Salamandra salamandra	Salamandra salamandra	(Linnaeus, 1758) 	2431776	
+Serpentes	Serpentes	11205692	EXACT	95	ACCEPTED	FAMILY	Animalia	Chordata			Serpentes			Serpentes		11205692	
+Soricidae	Soricidae	5534	EXACT	96	ACCEPTED	FAMILY	Animalia	Chordata	Mammalia	Soricomorpha	Soricidae			Soricidae		5534	
+Strix  aluco	Strix aluco Linnaeus, 1758	9282206	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Strigiformes	Strigidae	Strix	Strix aluco	Strix aluco	Linnaeus, 1758	9282206	
+Sylvia	Sylvia Scopoli, 1769	2492941	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Sylviidae	Sylvia		Sylvia		2492941	
+Sylvia atricapilla	Sylvia atricapilla (Linnaeus, 1758)	2492956	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Sylviidae	Sylvia	Sylvia atricapilla	Sylvia atricapilla	(Linnaeus, 1758) 	2492956	
+Talpa europaea	Talpa europaea Linnaeus, 1758	7872906	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Soricomorpha	Talpidae	Talpa	Talpa europaea	Talpa europaea	Linnaeus, 1758	7872906	
+Telescopus  fallax	Telescopus fallax Fleischmann, 1831	2457466	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Colubridae	Telescopus	Telescopus fallax	Telescopus fallax	Fleischmann, 1831	2457466	
+Testudo	Testudo Linnaeus, 1758	2441658	EXACT	96	ACCEPTED	GENUS	Animalia	Chordata	Testudines		Testudinidae	Testudo		Testudo	Linnaeus, 1758	2441658	
+Testudo graeca	Testudo graeca Linnaeus, 1758	2441461	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Testudines		Testudinidae	Testudo	Testudo graeca	Testudo graeca	Linnaeus, 1758	2441461	
+Testudo hermanni	Testudo hermanni Gmelin, 1789	2441454	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Testudines		Testudinidae	Testudo	Testudo hermanni	Testudo hermanni	Gmelin, 1789	2441454	
+Turdus	Turdus Linnaeus, 1758	2490714	EXACT	95	ACCEPTED	GENUS	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus		Turdus	Linnaeus, 1758	2490714	
+Turdus merula	Turdus merula Linnaeus, 1758	2490719	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Aves	Passeriformes	Turdidae	Turdus	Turdus merula	Turdus merula	Linnaeus, 1758	2490719	
+Typhlops  vermicularis	Typhlops vermicularis Merrem, 1820	2471324	EXACT	100	SYNONYM	SPECIES	Animalia	Chordata	Squamata		Typhlopidae	Xerotyphlops	Xerotyphlops vermicularis	Typhlops vermicularis	Merrem, 1820	2471324	9624852
+Vespertilionidae	Vespertilionidae	9368	EXACT	96	ACCEPTED	FAMILY	Animalia	Chordata	Mammalia	Chiroptera	Vespertilionidae			Vespertilionidae		9368	
+Vipera ammodytes	Vipera ammodytes (Linnaeus, 1758)	2444308	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Squamata		Viperidae	Vipera	Vipera ammodytes	Vipera ammodytes	(Linnaeus, 1758) 	2444308	
+Vulpes  vulpes	Vulpes vulpes (Linnaeus, 1758)	5219243	EXACT	100	ACCEPTED	SPECIES	Animalia	Chordata	Mammalia	Carnivora	Canidae	Vulpes	Vulpes vulpes	Vulpes vulpes	(Linnaeus, 1758) 	5219243	
